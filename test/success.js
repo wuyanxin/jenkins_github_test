@@ -11,6 +11,6 @@ var assert = require('assert');
 
 describe('needAnSuccess', function () {
   it('iGiveYou', function () {
-    assert.equal(1, 2, '1 equals 1');
+    assert.equal(1, 3, '1 equals 1');
   });
 });
