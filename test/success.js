@@ -15,6 +15,6 @@ describe('needAnSuccess', function () {
   });
 
   it('another success case', function () {
-    assert.equal(2, 2, '2 equals 2');
+    assert.equal(2, 3, '2 equals 2');
   });
 });
